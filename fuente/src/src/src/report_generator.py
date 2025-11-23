@@ -9,7 +9,7 @@ Original file is located at
 
 # Módulos necesarios
 from datetime import datetime
-from data_models import USUARIOS, RESERVAS, CARTELERA
+from src. data_models import USUARIOS, RESERVAS, CARTELERA
 # Importamos solo lo necesario de data_models para el reporte
 
 def imprimir_mapa_asientos(idx_funcion, asientos_map):
